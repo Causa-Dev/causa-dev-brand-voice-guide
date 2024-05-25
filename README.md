@@ -36,3 +36,22 @@ Este trabalho foi dedicado ao domínio público usando a Licença Creative Commo
 
 ### Estrutura do Repositório
 
+```bash
+causa-dev-brand-voice-guide/
+├── Ana-Persona.md
+├── Guia-Tom-de-Voz.md
+└── exemplos/
+    ├── redes-sociais/
+    ├── emails/
+    └── blogs/
+```
+
+Esperamos que este guia ajude todos os membros da nossa equipe a manterem uma voz unificada e a comunicar de forma eficaz e inspiradora em nome da Causa Dev.
+
+## Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+---
+
+Se tiver dúvidas ou precisar de mais informações, entre em contato com [Henrry Esposito](https://github.com/HenrryEsposito).
